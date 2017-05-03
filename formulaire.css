@@ -1,0 +1,45 @@
+h1{
+background-color:black;
+  text-align:center;
+  justify-content: space-between;
+  padding: 0px;
+  width:70%;
+  color:white;
+  width:70%;
+  margin-top:20%;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+body{
+  background-color:grey;
+  margin:0px auto;
+    padding:0px;
+}
+
+.p1{
+  color:white;
+  text-transform: center;
+  padding: 0px;
+  margin:0px;
+}
+.p2{
+  color:white;
+  font-style:oblique;
+}
+.div{
+  margin:auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 0px;
+  background-color: red;
+  text-align:center;
+  width:70%;
+  border:3px solid darkred;
+
+}
+
+.div{
+  display:flex;
+}
